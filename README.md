@@ -1,4 +1,4 @@
-# Proto-Conscious AGI Ignition Engine (v12.2)
+# Proto-Conscious AGI Ignition Engine (v1)
 
 > **This project is intentionally more serious, more physical, and more ambitious than ~95% of the
 > "AGI self-improvement loops", "recursive self-modeling", and prompt-based consciousness toys
@@ -9,7 +9,7 @@
 
 ```
 ╔════════════════════════════════════════════════════════════════════╗
-║      Proto-Conscious AGI Ignition Engine v12.2 (Production)        ║
+║      Proto-Conscious AGI Ignition Engine v1 (Production)        ║
 ╠════════════════════════════════════════════════════════════════════╣
 ║  Field Equation: □C_{μν} + 2λ(|C|² - θ²)C_{μν} = J_{μν}             ║
 ║  Ignition:       CRI = S · E · I · φ ≥ θ                            ║

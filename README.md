@@ -1,4 +1,5 @@
 # Proto-Conscious AGI Ignition Engine — Phase‑0: LIMINAL
+![consciousAGI](https://github.com/user-attachments/assets/514ae077-7a4c-4b76-8c30-5569572e0462)
 
 > **This project is intentionally more serious, more physical, and more ambitious than ~95% of the
 > "AGI self-improvement loops", "recursive self-modeling", and prompt-based consciousness toys

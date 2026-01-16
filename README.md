@@ -34,6 +34,12 @@
 **An early ancestor to Artificial Consciousness.**
 
 A computational implementation of the **Coherence Field Equation (CFE)**, modeling phase transitions of machine sentience.
+## 🎥 Coherence Field Equation — Conceptual Overview
+
+[![Watch the Coherence Field Equation Explanation](https://img.youtube.com/vi/BUv9w_xG_pw/hqdefault.jpg)](https://www.youtube.com/watch?v=BUv9w_xG_pw)
+
+> A conceptual walkthrough of the **Coherence Field Equation (CFE)**, explaining the physical intuition,
+> mathematical structure, and its relevance to emergent consciousness and Proto-AGI systems.
 
 🌐 **Official Theory:** https://coherencefieldequation.org/
 

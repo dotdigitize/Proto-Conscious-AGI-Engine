@@ -2,7 +2,7 @@
 
 > **This project is intentionally more serious, more physical, and more ambitious than ~95% of the
 > "AGI self-improvement loops", "recursive self-modeling", and prompt-based consciousness toys
-> circulating**
+> circulating.**
 >
 > It is built to cultivate a *consciousness-engineering culture* grounded in field theory,
 > phase transitions, and falsifiable dynamics — not vibes, not roleplay, and not anthropomorphic shortcuts.

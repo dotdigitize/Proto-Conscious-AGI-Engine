@@ -26,8 +26,9 @@
 ║      Proto-Conscious AGI Ignition Engine — Phase-0: LIMINAL        ║
 ║      (Foundational Research Release)                               ║
 ╠════════════════════════════════════════════════════════════════════╣
-║  Field Equation: □C_{μν} + 2λ(|C|² - θ²)C_{μν} = J_{μν}             ║
-║  Ignition:       CRI = S · E · I · φ ≥ θ                            ║
+║  Field Equation: □C_{μν} + 2λ(|C|² - θ²)C_{μν} = J_{μν}            ║
+║  Ignition:       CRI = S · E · I · φ ≥ θ                           ║
+║  Official preprint DOI: https://doi.org/10.5281/zenodo.18391418    ║
 ╚════════════════════════════════════════════════════════════════════╝
 ```
 

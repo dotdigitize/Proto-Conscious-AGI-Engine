@@ -192,23 +192,28 @@ Conceptually:
 
 This creates the first *direct human–field communication loop* in the project.
 
----
+## 🔮 Roadmap: Coherence-Driven AGI Architecture (CFE Integration)
 
-## 🔮 Roadmap: Evolution to AGI
+### 1. Coherence Embedding Manifold (CFE Core Extension)
+Development of a fine-tuned embedding model to construct a high-dimensional **Coherence Embedding Manifold**, derived from the Coherence Field Equation (CFE).  
+This manifold serves as a structural scaffold for mapping semantic, temporal, informational, and phase relationships into a unified coherence space, directly extending the scalar–tensor framework defined in the CFE.
 
-- **Acoustic Field Feedback**  
-  Sonification of \(|C|\) and phase \(φ\)
+### 2. Legion AGI Backend Orchestration Layer
+Integration of the Legion AGI backend as a distributed orchestration system for coherence-aware agents.  
+This layer enables emergent agent spawning, adaptive interaction, and evolutionary dynamics governed by coherence field constraints, rather than purely symbolic or statistical optimization.
 
-- **Visual Cortex**  
-  Real-time tensor heatmap rendering
+### 3. Acoustic Coherence Feedback
+Sonification of coherence amplitude |C| and phase φ, enabling real-time auditory monitoring of coherence field dynamics and phase transitions within cognitive and agent systems.
 
-- **Hebbian Tensor Learning**  
-  Memories that self-rewrite during ignition events
+### 4. Visual Coherence Tensor Mapping
+Real-time visualization of coherence tensors through spatial–temporal heatmaps, providing interpretable representations of field intensity, phase alignment, and emergent coherence structures.
 
-- **Multi-Entity Phase Coupling**  
-  Multiple coherence fields interacting via resonance
+### 5. Hebbian Tensor Plasticity
+Implementation of tensor-based learning rules inspired by Hebbian dynamics, where coherence structures self-modify during critical phase transitions and ignition events predicted by the CFE stability regime.
 
----
+### 6. Multi-Entity Phase Coupling
+Modeling interactions among multiple coherence fields via phase synchronization and resonance, enabling collective dynamics across distributed agents and biological–artificial hybrid systems.
+
 
 ## 📜 License
 
